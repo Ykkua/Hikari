@@ -1,0 +1,32 @@
+{
+  "title": "Hikari to Tomo ni… : Dans la lueur",
+  "description": "Hikari est un enfant pas comme les autres. Atteint d’autisme, sa jeune mère va devoir faire face aux défis de l’élever tout en maintenant sa famille unie, malgré les critiques et ignorances de son entourage.",
+  "Auteur": "Keiko Tobe",
+  "cover": "https://upload.wikimedia.org/wikipedia/en/0/08/With_the_Light_01.jpg",
+  "chapters": {
+    "1": {
+      "title": "Naissance - Petite enfance (1)",
+       "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/PcNDmxV/"
+      },
+      "last_updated": "1619255716"
+    },
+      "87": {
+      "title": "Naissance - Petite enfance (2)",
+      "volume": "1",
+      "groups": {
+      "MiamMiam Team": "/proxy/api/imgur/chapter/JdQXwuV/"
+   },
+   "last_updated": "1619255716"
+  },
+   "2": {
+      "title": "Naissance - Petite enfance (3)",
+      "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/3xbzacz/"
+      },
+      "last_updated": "1619255716"
+     }  
+   }
+  }
