@@ -29,12 +29,20 @@
       "last_updated": "1619255716"
      },  
      "4": {
-      "title": "Naissance - Garderie (1)",
+      "title": "Garderie (1)",
       "volume": "1",
       "groups": {
         "MiamMiam Team": "/proxy/api/imgur/chapter/4kBSikc/"
       },
       "last_updated": "1621885476"
+      },  
+     "5": {
+      "title": "Garderie (2)",
+      "volume": "1",
+      "groups": {
+        "MiamMiam Team": "/proxy/api/imgur/chapter/kujPP7g/"
+      },
+      "last_updated": "1624566705"
    }
    }
   }
